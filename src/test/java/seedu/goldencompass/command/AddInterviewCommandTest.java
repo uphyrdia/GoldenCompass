@@ -38,7 +38,7 @@ public class AddInterviewCommandTest {
 
     @Test
     public void execute_validIndexSecondInternship_addsInterviewSuccessfully() throws GoldenCompassException {
-        parser.parse("add-interview 2 /d 2026-05-15 14:00");
+        parser.parse("add-interview 2 /d 2099-05-15 14:00");
         addInterviewCommand.execute();
         assertEquals(1, interviewList.size());
     }
