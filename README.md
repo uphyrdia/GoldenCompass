@@ -61,4 +61,4 @@ The project uses [GitHub actions](https://github.com/features/actions) for CI. W
 * [Developer Guide](docs/DeveloperGuide.md) -- the design and implementation of GoldenCompass.
 * [About Us](docs/AboutUs.md) -- the team behind GoldenCompass.
 
-The documentation is published to the public via GitHub Pages, with the `source` set as `master branch /docs folder` in the `settings` tab of the team repo on GitHub.
+The documentation is published to the public via GitHub Pages.
