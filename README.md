@@ -1,6 +1,6 @@
 # GoldenCompass
 
-GoldenCompass is a **command-line application for managing internship applications**, optimised for fast typists who prefer a keyboard-driven workflow. It helps you track internships, schedule interviews, and stay on top of deadlines, all from your terminal. Given below are instructions on how to set up, build, and test the project.
+A coursework project to practice CI/CD pipelines, GoldenCompass is a command-line application for managing internship applications, optimised for fast typists who prefer a keyboard-driven workflow. It helps you track internships, schedule interviews, and stay on top of deadlines, all from your terminal. Given below are instructions on how to set up, build, and test the project.
 
 ## Setting up in Intellij
 
